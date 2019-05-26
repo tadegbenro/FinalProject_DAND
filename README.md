@@ -1,7 +1,5 @@
 # FinalProject_DAND
 Final project for the Udacity Data Analysis Nanodegree to demonstrate the importance and value of data visualization techniques in the data analysis process
-# Project Name
-This is the final project for the Udacity Data Analysis Nanodegree to demonstrate the importance and value of data visualization techniques in the data analysis process.
 
 ## Project Objectives
 The purpose of this project is to 
