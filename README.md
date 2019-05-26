@@ -33,5 +33,6 @@ The primary question explored in this project is to determine how effective the 
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Final Project - Exploratory Analysis](https://github.com/tadegbenro/FinalProject_DAND/blob/master/Final%20Project%20-%20Exploratory%20Analysis.ipynb)
-* Final Project Explanatory
+* [Final Project Explanatory](https://github.com/tadegbenro/FinalProject_DAND/blob/master/Final%20Project%20Explanatory.ipynb)
+* [Final Project Explanatory Slides](https://github.com/tadegbenro/FinalProject_DAND/blob/master/Final%20Project%20Explanatory.slides.html)
 * [Final Project Explanatory.slides.html](http://127.0.0.1:8000/Final%20Project%20Explanatory.slides.html#/12) 
