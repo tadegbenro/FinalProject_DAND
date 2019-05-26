@@ -32,6 +32,6 @@ The data set selected for this project is the [Loan Data from Prosper](https://w
 The primary question explored in this project is to determine how effective the Rating model (created by Prosper to qualify borrowers) was in predicting how well a loan performs. Also to be explored is how attributes associated with the borrower (i.e income, employment status) and the loan (i.e APR, monthly payments) also influence loan performance. 
 
 ## Featured Notebooks/Analysis/Deliverables
-* Final Project - Exploratory Analysis
+* [Final Project - Exploratory Analysis](https://github.com/tadegbenro/FinalProject_DAND/blob/master/Final%20Project%20-%20Exploratory%20Analysis.ipynb)
 * Final Project Explanatory
 * [Final Project Explanatory.slides.html](http://127.0.0.1:8000/Final%20Project%20Explanatory.slides.html#/12) 
